@@ -11,7 +11,7 @@ int main(){
    	int a; 
    	cin >> a; 
    	if(a<0){
-   		y+=a; 
+   	y+=a; 
 	}
 	
 	else
