@@ -3,8 +3,7 @@ using namespace std;
 
 
 int main(){
-   
-
+	
    	int n, x=0, y=0; 
    	cin >> n; 
  
@@ -17,7 +16,7 @@ int main(){
 	
 	else
    	x += a; 
-}
+	}
 	   
 	   cout << x - y << endl; 
 	
